@@ -1,1 +1,2 @@
-Bienvenue dans cette présentation de Git
+Bienvenue dans cette présentation de Git.
+Cette ligne a été ajoutée.
