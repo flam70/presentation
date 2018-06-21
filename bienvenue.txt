@@ -1,2 +1,3 @@
 Bienvenue dans cette présentation de Git.
 Cette ligne a été ajoutée.
+Cette ligne a été ajoutée lors de la feature1.
