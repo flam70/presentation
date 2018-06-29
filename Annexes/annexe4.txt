@@ -1,2 +1,4 @@
 Ceci est l'annexe 4 de la présentation.
 Le contenu est le suivant :
+Dans un premier temps, nous passerons en revue les commandes de base de Git.
+Puis nous étudierons un premier exemple.
